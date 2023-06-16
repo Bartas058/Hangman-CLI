@@ -19,7 +19,7 @@ To run this project, make sure you have the following tools installed:
 2. Open a terminal or command prompt and navigate to the project's root directory.
 3. Build the project and download the dependencies using Maven: mvn clean install
 4. Run the application: mvn exec:java
-5. 
+
 ## Author
 
 This project was created by Kacper Prusak. If you have any questions or comments, feel free to contact me.
