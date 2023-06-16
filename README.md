@@ -25,3 +25,7 @@ To run this project, make sure you have the following tools installed:
 This project was created by Kacper Prusak. If you have any questions or comments, feel free to contact me.
 
 Thank you for your interest in my project!
+
+## University
+
+Polish-Japanese Academy of Information Technology
